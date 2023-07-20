@@ -1,0 +1,16 @@
+,no,Age,Gender,Headache frequency of last month,Mean severity of the headache,The side of the headache,Locatiaon Frontal,Location Holocranial,Location Occipital,Location Periorbital,Location Vertex,Location Temporal,Location Other,Nausea,Vomiting,Photophobia,Phonophobia,Accompanying cranial autonomic symptoms,SYMP_Rhinorrhoea,SYMP_Ptosis,SYMP_Eyelid oedema,SYMP_Forehead/facial sweating,SYMP_Lacrimation,SYMP_Conjunctival injection,SYMP_Nasal congestion,TRG_Menstruation,TRG_Hunger,TRG_Dehydration,TRG_Bright Light,TRG_Wheather changes,TRG_Tiredness/Pysical activity,TRG_Watching TV,TRG_Playing games,TRG_Smells,TRG_Sleep deprivation/Oversleeping,TRG_Reading/Studying,TRG_Stress,If some spesific foods trigger your headache please specify.,Aggravation by physical activity,Valsalva effect,Fever,Focal neurological symptom,1. Migraine,2. Tension-type headache (TTH),3. Trigeminal autonomic cephalalgias (TACs),4. Other primary headache disorders
+0,210,50.0,male,8.0,7,occiptial,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,1,1,0,1,0,1,0,0,0,1.0,1,0.0,0
+1,211,42.0,female,15.0,6,occiptial,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1,0,0,1,0,0,1.0,0,0.0,0
+2,212,33.0,male,9.0,6,occiptial,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1.0,0,0.0,0
+3,218,43.0,female,10.0,6,occiptial,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,1.0,0,0.0,0
+4,220,41.0,male,5.0,6,occiptial,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,1,0,1,0,9,0,1,0,0,1.0,0,0.0,0
+5,224,75.0,male,1.0,8,occiptial,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,0,0,1,8,1,1,0,0,0.0,0,0.0,0
+6,227,49.0,female,4.0,8,occiptial,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0.0,1,0.0,0
+7,230,32.0,female,0.0,5,occiptial,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0
+8,232,19.0,female,4.0,5,occiptial,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1.0,0,0.0,0
+9,233,75.0,male,1.0,5,occiptial,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0.0,1,0.0,0
+10,240,52.0,female,1.0,5,occiptial,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1.0,0,0.0,0
+11,250,62.0,female,0.0,4,occiptial,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,0,0,0,1.0,1,0.0,0
+12,252,60.0,female,3.0,5,occiptial,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0,0,0,1.0,0,0.0,0
+13,254,55.0,male,3.0,8,Bilateral         temporal,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,1.0,0,0.0,0
+14,261,24.0,female,0.0,8,Bilateral         temporal,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1.0,0,0.0,0

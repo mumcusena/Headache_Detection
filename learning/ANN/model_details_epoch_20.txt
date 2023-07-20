@@ -1,0 +1,95 @@
+Model: "sequential_18"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_198 (Dense)           (None, 65)                3770      
+                                                                 
+ dropout_54 (Dropout)        (None, 65)                0         
+                                                                 
+ dense_199 (Dense)           (None, 65)                4290      
+                                                                 
+ dense_200 (Dense)           (None, 65)                4290      
+                                                                 
+ dense_201 (Dense)           (None, 65)                4290      
+                                                                 
+ dense_202 (Dense)           (None, 65)                4290      
+                                                                 
+ dropout_55 (Dropout)        (None, 65)                0         
+                                                                 
+ dense_203 (Dense)           (None, 32)                2112      
+                                                                 
+ dense_204 (Dense)           (None, 32)                1056      
+                                                                 
+ dense_205 (Dense)           (None, 16)                528       
+                                                                 
+ dense_206 (Dense)           (None, 16)                272       
+                                                                 
+ dropout_56 (Dropout)        (None, 16)                0         
+                                                                 
+ dense_207 (Dense)           (None, 8)                 136       
+                                                                 
+ dense_208 (Dense)           (None, 4)                 36        
+                                                                 
+=================================================================
+Total params: 25070 (97.93 KB)
+Trainable params: 25070 (97.93 KB)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+
+Layer Details:
+Layer: dense_198
+Layer Size: 57
+Activation Function: relu
+
+Layer: dropout_54
+Layer Size: 65
+Dropout Rate: 0.1
+
+Layer: dense_199
+Layer Size: 65
+Activation Function: relu
+
+Layer: dense_200
+Layer Size: 65
+Activation Function: relu
+
+Layer: dense_201
+Layer Size: 65
+Activation Function: relu
+
+Layer: dense_202
+Layer Size: 65
+Activation Function: relu
+
+Layer: dropout_55
+Layer Size: 65
+Dropout Rate: 0.1
+
+Layer: dense_203
+Layer Size: 65
+Activation Function: relu
+
+Layer: dense_204
+Layer Size: 32
+Activation Function: relu
+
+Layer: dense_205
+Layer Size: 32
+Activation Function: relu
+
+Layer: dense_206
+Layer Size: 16
+Activation Function: relu
+
+Layer: dropout_56
+Layer Size: 16
+Dropout Rate: 0.1
+
+Layer: dense_207
+Layer Size: 16
+Activation Function: relu
+
+Layer: dense_208
+Layer Size: 8
+Activation Function: softmax
+
